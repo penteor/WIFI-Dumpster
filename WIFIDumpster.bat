@@ -3,7 +3,7 @@
 :MENU
 ECHO.
 ECHO ...............................................
-ECHO PRESS 1, 2 , etc. to select your task, or 9 to EXIT.
+ECHO PRESS 1, 2 , etc. to select your task, or 8 to EXIT.
 ECHO ...............................................
 ECHO.
 ECHO 1 - List Available SSIDs
