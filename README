@@ -2,7 +2,12 @@
 
 Dump wireless profiles and clear text passwords from Windows machines.
 
-# Run Script
+# Run Script on Windows
 * Run cmd.exe (Command Prompt) as Administrator.
 * Go to script path
 * Run the application as WIFIDumpster.bat
+
+
+# Run Script on OSX
+chod 755 WIFI-dumpster.py
+./WIFI-dumpster.py
