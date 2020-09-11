@@ -1,8 +1,8 @@
 # WIFI-Dumpster
 
-Open source tool that dump wireless profiles and clear text passwords of the connected access points from Windows machines.
+Dump wireless profiles and clear text passwords from Windows machines.
 
-# How to run the application?
+# Run Script
 * Run cmd.exe (Command Prompt) as Administrator.
 * Go to script path
 * Run the application as WIFIDumpster.bat
