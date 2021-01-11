@@ -1,6 +1,6 @@
 # WIFI-Dumpster
 
-Dump wireless profiles and clear text passwords from Windows machines.
+Dump wireless profiles and clear text passwords from Windows/MacOS machines.
 
 # Run Script on Windows
 * Run cmd.exe (Command Prompt) as Administrator.
